@@ -36,5 +36,8 @@
 ![image](https://github.com/user-attachments/assets/afef08ad-2c7d-445e-89c1-7f2a089b789c)
 
 
+### 참고 사항 및 원본 수정 사항
+requirements.txt를 추가 하였습니다. 2025년 04월 02일 
+
 
 
